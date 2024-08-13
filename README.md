@@ -16,10 +16,10 @@ This project is a decentralized that ineracts with the Ehtereum blockchain. It  
 
 ### Demo
 - Landing Page
-![Landing](landing.png)
+![Landing](./demo/landing.png)
 - Step 1: Connect to MetaMask wallet
-![Usage Demo 1](demo1.gif)
+![Usage Demo 1](./demo/demo1.gif)
 - Step 2: Send Ethereum transaction
-![Usage Demo 2](demo2.gif)
+![Usage Demo 2](./demo/demo2.gif)
 - Step 3: Track previous transaction history
-![Usage Demo 3](demo3.gif)
+![Usage Demo 3](./demo/demo3.gif)
