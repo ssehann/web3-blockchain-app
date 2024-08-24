@@ -1,7 +1,7 @@
 ## Web3.0 Blockchain Application
 
 ### Overview
-This project is a decentralized that ineracts with the Ehtereum blockchain. It  demonstrates the integration of Ethereum smart contracts with a React-based frontend, where users can send transactions and view transaction history.
+This project is a decentralized that interacts with the Ehtereum blockchain. It  demonstrates the integration of Ethereum smart contracts with a React-based frontend, where users can send transactions and view transaction history.
 
 ### Tech Stack
 - Vite.js React, JavaScript, TailwindCSS
@@ -18,8 +18,8 @@ This project is a decentralized that ineracts with the Ehtereum blockchain. It  
 - Landing Page
 ![Landing](./demo/landing.png)
 - Step 1: Connect to MetaMask wallet
-![Usage Demo 1](./demo/demo1.gif)
+![Usage Demo 1](./demo/demo1v2.gif)
 - Step 2: Send Ethereum transaction
-![Usage Demo 2](./demo/demo2.gif)
+![Usage Demo 2](./demo/demo2v2.gif)
 - Step 3: Track previous transaction history
-![Usage Demo 3](./demo/demo3.gif)
+![Usage Demo 3](./demo/demo3v2.gif)
